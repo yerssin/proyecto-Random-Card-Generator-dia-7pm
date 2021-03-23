@@ -1,0 +1,37 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+    background-color: green;
+
+}
+.card {
+    display: inline-block;
+    width: 400px;  
+    background: white;
+    border-radius: 15px;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+
+
+} 
+.top {
+    font-size: 100px;
+    text-align: left;
+}
+.center {
+    font-size: 200px;
+}
+.bottom {
+    font-size: 100px;
+    text-align: right;
+}
+.click {
+    padding: 10px;
+    
+}
+.btn {
+    background: white;
+}
+.btn hover{
+    background: green;
+}
